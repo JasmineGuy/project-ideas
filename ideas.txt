@@ -1,0 +1,5 @@
+1. Dating App that runs background checks before allowing a user to sign up
+2. E-commerce site for small businesses to sell their products directly to online buyers
+3. Vacation rental booking site
+4. App that helps users find shelters/safe-houses as victims of domestic abuse
+5. Cryptocurrency app similar to coinbase
